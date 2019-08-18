@@ -1,8 +1,8 @@
-# roreitoEstudoemJS2019
-# list of links to JavaScript related materials
+# JAVASCRIPT 2019 STUDY TOUR
+## list of links to JavaScript related materials
 
 Javascript book i indicate to start your studies !
-Eloquente v.3.0
+1.[Eloquente v.3.0](http://eloquentjavascript.net/)
 http://eloquentjavascript.net/
 
 Eloquente v.2.0
