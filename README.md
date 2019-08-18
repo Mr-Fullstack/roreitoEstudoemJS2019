@@ -3,7 +3,7 @@
 
 ***Javascript book i indicate to start your studies !***  
 [*Eloquente v.3.0*](http://eloquentjavascript.net/)  
-[*Eloquente v.2.0*](<https://github.com/braziljs/eloquente-javascript>)         
+[*Eloquente v.2.0*](http://braziljs.github.io/eloquente-javascript/)         
 [*Ebook about Design Patterns in Javascript and others*]( https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
 
 ***Javascript the right way - code style***  
