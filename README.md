@@ -2,12 +2,10 @@
 ## list of links to JavaScript related materials
 
 Javascript book i indicate to start your studies !
-1.[Eloquente v.3.0](http://eloquentjavascript.net/)
-http://eloquentjavascript.net/
+[Eloquente v.3.0](http://eloquentjavascript.net/)
+[Eloquente v.2.0](https://github.com/braziljs/eloquente-javascript)
+[repo:](http://braziljs.github.io/eloquente-javascript/)
 
-Eloquente v.2.0
-https://github.com/braziljs/eloquente-javascript
-http://braziljs.github.io/eloquente-javascript/
 
 Ebook about Design Patterns in Javascript and others
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/
