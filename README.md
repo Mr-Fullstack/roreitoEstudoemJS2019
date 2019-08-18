@@ -1,4 +1,4 @@
-# JAVASCRIPT 2019 STUDY TOUR  
+# JAVASCRIPT 2019/2020 STUDY TOUR  
 ## list of links to JavaScript related materials  
 
 ###Javascript book i indicate to start your studies !  
@@ -8,7 +8,7 @@
 [Ebook about Design Patterns in Javascript and others]
  https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
-***More***:
+***MORE***:
 
 _**Course free in**_:   
 [30 days immersive to Javascript Language](https://javascript30.com/)
@@ -18,9 +18,8 @@ _coming soon !..._
 _**Repo with list of books to master JavaScript Development**_  
 [Javascript path learn javascript](https://github.com/javascript-society/javascript-path#learn-javascript)
 
-
-__***Observation***__:
-it is not obligatory nor is it necessary to read all the books ok! just one of them to start is already a good size
+__****Observation***__:
+_it is not obligatory nor is it necessary to read all the books ok! just one of them to start is already a good size._
 
 ###Javascript the right way - code style
 http://jstherightway.org/pt-br/#js-code-style
