@@ -2,18 +2,20 @@
 ## list of links to JavaScript related materials  
 
 ***Javascript book i indicate to start your studies !***  
-[**Eloquente v.3.0**](http://eloquentjavascript.net/)  
-[**Eloquente v.2.0**](<https://github.com/braziljs/eloquente-javascript>)         
-[**Ebook about Design Patterns in Javascript and others**]( https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
+[*Eloquente v.3.0*](http://eloquentjavascript.net/)  
+[*Eloquente v.2.0*](<https://github.com/braziljs/eloquente-javascript>)         
+[*Ebook about Design Patterns in Javascript and others*]( https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
 
-***Javascript the right way - code style***
-http://jstherightway.org/pt-br/#js-code-style
+***Javascript the right way - code style***  
+[JS the right way](http://jstherightway.org/pt-br/#js-code-style)
 
 
-***Article about creation of aplication used Javascript***
-https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6
+***interesting articles***:
 
-**more**:    
+**Article about creation of aplication used Javascript**
+[link of post](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
+_coming soon !..._  
+***more***:    
 
 _**Course free in**_:    
 [30 days immersive to Javascript Language](https://javascript30.com/)
