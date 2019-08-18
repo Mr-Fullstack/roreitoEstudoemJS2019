@@ -1,5 +1,5 @@
 # roreitoEstudoemJS2019
-list of links to JavaScript related materials
+# list of links to JavaScript related materials
 
 Javascript book i indicate to start your studies !
 Eloquente v.3.0
