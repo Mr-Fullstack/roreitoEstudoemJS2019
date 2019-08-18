@@ -11,7 +11,7 @@
 
 ***Interesting Articles***:  
 **Article about creation of aplication used Javascript**  
-[link of post](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
+[post link](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
 _coming soon !..._ 
 
 ***MORE***:    
