@@ -19,7 +19,7 @@ _**Repo with list of books to master JavaScript Development**_
 [Javascript path learn javascript](https://github.com/javascript-society/javascript-path#learn-javascript)
 
 
-####Observation:
+__***Observation***__:
 it is not obligatory nor is it necessary to read all the books ok! just one of them to start is already a good size
 
 ###Javascript the right way - code style
