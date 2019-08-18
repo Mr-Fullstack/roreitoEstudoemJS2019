@@ -8,13 +8,16 @@
 [Ebook about Design Patterns in Javascript and others]
  https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
-More:
+***More***:
 
-###Course free in 30 days immersive to Javascript Language
-https://javascript30.com/
+_**Course free in**_:   
+[30 days immersive to Javascript Language](https://javascript30.com/)
 
-###List of books to master JavaScript Development
-https://github.com/javascript-society/javascript-path#learn-javascript
+_coming soon !..._
+
+_**Repo with list of books to master JavaScript Development**_  
+[Javascript path learn javascript](https://github.com/javascript-society/javascript-path#learn-javascript)
+
 
 ####Observation:
 it is not obligatory nor is it necessary to read all the books ok! just one of them to start is already a good size
